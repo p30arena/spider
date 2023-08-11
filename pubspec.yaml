@@ -27,7 +27,7 @@ dependencies:
   sprintf: ^7.0.0
   meta: ^1.9.1
   ansicolor: ^2.0.1
-  collection: ^1.17.2
+  collection: ^1.17.1
 
 dev_dependencies:
   # 2.4.5 doesn't work with logging.
